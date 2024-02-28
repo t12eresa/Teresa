@@ -1,0 +1,23 @@
+ #This program is to show how to perform arithmetic operations 
+ #date 19/2/2024
+ #name Teresa
+
+ first_number = 32
+ second_number = 12
+ sum_numbers = first_number + second_number
+ print("the sum of the numbers",sum_numbers)
+
+ third_number = 23
+ fourth_number = 24
+ sum_numbers = third_number + fourth_number
+ print("the sum of the numbers",sum_numbers)
+
+fifth_number = 43
+sixth_number = 65
+sum_numbers = fifth_number + sixth_number
+print("the sum of the numbers",sum_numbers)
+
+seventh_number = 76
+eighth_number = 89
+sum_numbers = seventh_number + eighth_number
+print("sum)

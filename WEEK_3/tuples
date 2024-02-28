@@ -1,0 +1,8 @@
+
+
+cities = ("Nairobi","Kisumu","Nakuru","Mombasa","Kampala")
+
+print(cities)
+
+for cities in cities:
+    print(cities)

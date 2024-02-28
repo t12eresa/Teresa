@@ -1,0 +1,23 @@
+# program to show multiplication of numbers
+# name Teresa
+# date 23/2/2024
+
+# for loop 
+# while loop
+
+number =int(input("3"))
+
+range(1,10)
+
+x=3
+
+result=number*x
+
+print(number,"x","=",result)
+
+
+
+    
+    
+        
+

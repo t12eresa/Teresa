@@ -1,0 +1,7 @@
+print ("my name is Teresa")
+print("i am 18 years old")
+print ("i come from Nairobi county")
+print ("i love playing basketball,dancing and cooking")
+print("-------__-")
+print("**********")
+print("###########")
