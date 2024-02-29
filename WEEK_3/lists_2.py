@@ -25,6 +25,8 @@ for x in range (0,11):
     squares.append(x**2)
 print(squares)
 
+
+
            
            
            
