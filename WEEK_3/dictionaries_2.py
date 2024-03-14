@@ -2,7 +2,7 @@
 # name Teresa
 # date 28/2/2024
 
-car = {"car","audi Q8 e-z","colour","grey","year","2023"}
+car = {"car":"audi Q8 e-z","colour":"grey","year":"2023"}
 
 
 
@@ -16,6 +16,11 @@ for key,value in car.items():
     print(key)
     print("\n")
     print(value)
+
+    car_copy = car.copy()
+    print(car_copy)
+    print(car)
+
 
 
 

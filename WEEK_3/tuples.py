@@ -7,4 +7,4 @@ hobbies = ("dancing","cooking","playing basketball","singing")
 print(hobbies)
 
 for hobby in hobbies :
-    print(hobbies)
+    print(hobby)
